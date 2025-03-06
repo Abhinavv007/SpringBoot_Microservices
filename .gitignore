@@ -1,0 +1,38 @@
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Maven
+/task management/**/target/
+
+# Gradle
+/task management/**/build/
+
+# Log Files
+*.log
+/task management/**/logs/
+
+# Environment Specific Files
+/task management/**/application.properties
+/task management/**/application.yml
+
+# Temporary Files
+*.tmp
+*.swp
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
